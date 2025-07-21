@@ -12,6 +12,7 @@ A modern React/Vite application featuring:
 
 ![Screenshot 1](./assets/Screenshot%202025-07-19%20230250.png)
 ![Screenshot 2](./assets/Screenshot%202025-07-19%20230308.png)
+![Screenshot 3](https://drive.google.com/file/d/1mEpt-aNIV3G1dlBe2DGssZNK5hvB8lbg/view?usp=sharing)
 
 ### Freeze Screen  
 ![Freeze Animation Demo](./assets/freeze-demo.gif)
@@ -22,7 +23,7 @@ A modern React/Vite application featuring:
 ---
 ## 🚀 Live Demo & Deployment
 
-[![Deploy with Vercel](https://yolo-payment-2tb0nyns2-md-sahil-khans-projects-70856617.vercel.app/)]
+[![Deploy with Vercel] [(https://vercel.com/md-sahil-khans-projects-70856617/yolo-payment)]
 ![Vercel Deployment](https://yolo-payment-git-main-md-sahil-khans-projects-70856617.vercel.app)
 
 
